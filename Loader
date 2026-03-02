@@ -32,7 +32,7 @@ elseif GameId == 7621512836 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/pafapafa/GameScripts/main/Circular%20Tower"))()
 
 elseif GameId == 3864279452 then
-    loadstring(game:HttpGet(""))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/pafapafa/GameScripts/main/cart%20ride%20around%20nothing"))()
 
 elseif GameId == 8127951408 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/pafapafa/GameScripts/main/Stage"))()
