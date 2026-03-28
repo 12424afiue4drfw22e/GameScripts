@@ -9,8 +9,8 @@ if not getgenv().TeleportQueued then
         ]])
     end
 end
-local HttpService = game:HttpGet
-loadstring(HttpService("https://raw.githubusercontent.com/pafapafa/GameScripts/main/Pa"))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pafapafa/GameScripts/main/Pa"))()
 
 local GameId = game.GameId
 local LocalPlayer = game:GetService("Players").LocalPlayer
