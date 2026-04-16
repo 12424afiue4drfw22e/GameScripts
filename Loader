@@ -25,34 +25,34 @@ elseif GameId == 4552793904 then
     loadstring(game:HttpGet'https://raw.githubusercontent.com/pafapafa/GameScripts/main/Effortless%20Tower')()
 
 elseif GameId == 7290067958 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/pafapafa/GameScripts/main/Double%20Jump%20Tower"))()
+    loadstring(game:HttpGet'https://raw.githubusercontent.com/pafapafa/GameScripts/main/Double%20Jump%20Tower')()
 
 elseif GameId == 8362507239 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/pafapafa/GameScripts/main/Jump%20Map%20Power%20Level%20Test"))()
+    loadstring(game:HttpGet'https://raw.githubusercontent.com/pafapafa/GameScripts/main/Jump%20Map%20Power%20Level%20Test')()
 
 elseif GameId == 7621512836 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/pafapafa/GameScripts/main/Circular%20Tower"))()
+    loadstring(game:HttpGet'https://raw.githubusercontent.com/pafapafa/GameScripts/main/Circular%20Tower')()
 
 elseif GameId == 3864279452 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/pafapafa/GameScripts/main/cart%20ride%20around%20nothing"))()
+    loadstring(game:HttpGet'https://raw.githubusercontent.com/pafapafa/GameScripts/main/cart%20ride%20around%20nothing')()
 
 elseif GameId == 8360491918 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/pafapafa/GameScripts/main/Korea%20Army"))()
+    loadstring(game:HttpGet'https://raw.githubusercontent.com/pafapafa/GameScripts/main/Korea%20Army')()
 
 elseif GameId == 6147276975 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/pafapafa/GameScripts/main/Drive%20the%20train%20to%20the%20end"))()
+    loadstring(game:HttpGet'https://raw.githubusercontent.com/pafapafa/GameScripts/main/Drive%20the%20train%20to%20the%20end')()
 
 elseif GameId == 8883775493 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/pafapafa/GameScripts/main/Build%20a%20Roller%20Coaster"))()
+    loadstring(game:HttpGet'https://raw.githubusercontent.com/pafapafa/GameScripts/main/Build%20a%20Roller%20Coaster')()
 
 elseif GameId == 3310460039 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/pafapafa/GameScripts/main/BARRY'S%20PRISON%20RUN!%20(OBBY)"))()
+    loadstring(game:HttpGet'https://raw.githubusercontent.com/pafapafa/GameScripts/main/BARRY'S%20PRISON%20RUN!%20(OBBY)')()
 
 elseif GameId == 2027832238 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/pafapafa/GameScripts/main/MMK"))()
+    loadstring(game:HttpGet'https://raw.githubusercontent.com/pafapafa/GameScripts/main/MMK')()
 
 elseif GameId == 8127951408 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/pafapafa/GameScripts/main/Stage"))()
+    loadstring(game:HttpGet'https://raw.githubusercontent.com/pafapafa/GameScripts/main/Stage')()
 
 else
     LocalPlayer:Kick("Not Support Game")
